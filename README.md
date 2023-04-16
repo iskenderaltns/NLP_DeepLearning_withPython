@@ -1,2 +1,3 @@
 # NLP_DeepLearning_withPython
- SENTIMENT ANALYSIS AND CLASSIFICATION OF COMMENTS WITH CUSTOMER REVIEWS
+ Classification of customer reviews on a women's clothing e-commerce site
+ 
